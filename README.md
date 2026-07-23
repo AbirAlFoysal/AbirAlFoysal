@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Md.+Abir+Al+Foysal;Senior+Backend+Engineer;Python+%7C+FastAPI+%7C+Go;Microservices+%7C+Cloud+%7C+AWS;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Md.+Abir+Al+Foysal;Software+Engineer;Python+%7C+FastAPI+%7C+Go;Microservices+%7C+Cloud+%7C+AWS;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
