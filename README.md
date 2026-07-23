@@ -40,9 +40,9 @@ I build scalable backend systems, cloud-native applications, developer tools, an
 ```python
 class AbirAlFoysal:
 
-    title = "Backend Engineer"
+    title = "Software Engineer I"
 
-    company = "Evident BD"
+    company = "Ternary solutions"
 
     location = "Dhaka, Bangladesh"
 
