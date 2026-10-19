@@ -165,56 +165,6 @@ class AbirAlFoysal:
 
 ---
 
-# 🏆 Featured Projects
-
-## 🚀 PI360
-
-A unified enterprise platform integrating
-
-- Education
-- HRM
-- Jobs
-- Payments
-- Social Platform
-
----
-
-## 📦 ManageYourEcommerce
-
-Unified marketplace management platform supporting
-
-- Amazon
-- Shopify
-- eBay
-- FedEx
-- Evri
-- Royal Mail
-
----
-
-## 👨‍💼 AttendanceKeeper
-
-- Facial Recognition
-- Live Monitoring
-- Analytics
-- HR
-- Geo-fencing
-- Leave Management
-
----
-
-## 📊 InventoryKeeper
-
-Enterprise inventory & stock management platform.
-
----
-
-## 🚗 ParkingBD
-
-Smart parking solution with secure booking and location-based parking discovery.
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
